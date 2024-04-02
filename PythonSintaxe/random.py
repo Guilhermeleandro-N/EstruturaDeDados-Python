@@ -16,6 +16,7 @@ def main():
             print("Valor muito alto!")
         else:
             print(f"Você acertou em {count} tentativas!")
+            break
           
 if __name__ == "__main__":
     main()
